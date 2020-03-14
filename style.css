@@ -1,0 +1,13 @@
+.ct2 {
+  height: 100vh;
+}
+.rounded {
+  border-radius: 50%;
+  height: 100px;
+  width: 50px;
+}
+.bkimg {
+  background-image: url("https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252__340.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
