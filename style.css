@@ -2,9 +2,7 @@
   height: 100vh;
 }
 .rounded {
-  border-radius: 50%;
-  height: 100px;
-  width: 50px;
+  border-radius: 50% !important;
 }
 .bkimg {
   background-image: url("https://cdn.pixabay.com/photo/2016/04/15/04/02/water-1330252__340.jpg");
@@ -13,4 +11,26 @@
 }
 .btn {
   margin-bottom: auto;
+}
+
+.bc {
+  background-color: rgb(143, 86, 207);
+  height: 50px;
+}
+
+.logo {
+  background-color: yellow;
+  height: 100px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.linebreak {
+  background-color: black;
+  height: 100vh;
+  margin-bottom: -150vh;
+}
+
+.borderbtm {
+  border-top: 3px solid black;
+  margin-top: 55px !important;
 }
